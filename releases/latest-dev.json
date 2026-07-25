@@ -1,7 +1,7 @@
 {
   "tag": "latest-dev",
-  "version": "0.0.0-dev.20260725.g2e66a0a",
+  "version": "0.0.0-dev.20260725.gb175515",
   "channel": "dev",
-  "source_commit": "2e66a0a8b2c3e8b07af44005ffdd271131dd69be",
-  "published_at": "2026-07-25T16:26:22Z"
+  "source_commit": "b175515e83c50ce5d046c0fbf052fa22b33b21d5",
+  "published_at": "2026-07-25T17:48:24Z"
 }
