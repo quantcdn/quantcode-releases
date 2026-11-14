@@ -1,7 +1,7 @@
 {
   "tag": "latest-dev",
-  "version": "0.0.0-dev.20261114.g441051c",
+  "version": "0.0.0-dev.20261114.g6cbcd65",
   "channel": "dev",
-  "source_commit": "441051c1b2e1d4bc2b181c2a1f2723878c088653",
-  "published_at": "2026-11-14T03:07:22Z"
+  "source_commit": "6cbcd65464172022d652f4094c790f45123e7160",
+  "published_at": "2026-11-14T07:35:36Z"
 }
