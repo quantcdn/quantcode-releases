@@ -1,7 +1,7 @@
 {
-  "tag": "latest-dev",
-  "version": "0.0.0-dev.20261119.g33b3625",
+  "tag": "dev-20261119.gec9442e",
+  "version": "0.0.0-dev.20261119.gec9442e",
   "channel": "dev",
-  "source_commit": "33b3625a1e58ee6091fd3c9846cc09482080b02b",
-  "published_at": "2026-11-19T05:38:14Z"
+  "source_commit": "ec9442e85ed946bf68a1cfb84ed67f23c3b25476",
+  "published_at": "2026-11-19T07:30:04Z"
 }
